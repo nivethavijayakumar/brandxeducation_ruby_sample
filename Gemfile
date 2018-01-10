@@ -17,7 +17,7 @@ end
 gem 'sass-rails', '4.0.3'
 #use bootstap library for styles
 gem 'bootstrap-sass', '3.3.1'
-#use font awesome library for icons
+#Use font-awesome for style icon
 gem 'font-awesome-sass', '4.2.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '1.3.0'
